@@ -1,3 +1,25 @@
 .logo-head {
     background-image: url('../images/bg-main-mobile.png');
 }
+
+.title {
+    width: 75%;
+}
+
+.txt {
+    width: 70%;
+}
+
+.illustration {
+    width: 75%;
+}
+
+.premium {
+    background-color: #FA7453;
+    color: #FCFAF9;
+}
+
+.ios {
+    background-color: #191826;
+    color: #FCFAF9;
+}
