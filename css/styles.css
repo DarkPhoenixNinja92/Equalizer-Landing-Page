@@ -8,38 +8,60 @@
 
 .txt {
     width: 70%;
-    margin-bottom: 21em;
+    margin-bottom: 44em;
 }
 
 .illustration {
     position: absolute;
     z-index: 100;
-    width: 65%;
-    left: 3em;
-    bottom: 13em;
+    width: 60%;
+    left: 4em;
+    bottom: 19em;
 }
 
 .premium {
     background-color: #FA7453;
     width: 100%;
     position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     left: 0;
-    bottom: 9em;
+    top: -9em;
     color: #FCFAF9;
     z-index: 125;
+    border-radius: 15px;
+    padding-bottom: 23vh;
 }
 
 footer {
     position: absolute;
     left: 0;
     bottom: 0;
-    top: 90vh;
+    top: 160vh;
     z-index: 220;
+
+}
+
+.footer-txt {
+    width: 73%;
+    margin-bottom: 3em;
+}
+
+footer .logo-footer,.footer-txt {
+    margin-left: 3em;
 }
 
 .ios {
     background-color: #191826;
     color: #FCFAF9;
+    margin-bottom: 1em;
+}
+
+.ios,.android {
+    border-radius: 8px;
+    padding: 0.5em 3.5em;
 }
 
 .bg-pattern {
@@ -47,8 +69,9 @@ footer {
     width: 100%;
     position: absolute;
     left: 0;
-    bottom: 11em;
+    bottom: 7em;
     background-color: #191826;
+    border-radius: 15px 15px;
 }
 
 .container {
@@ -69,10 +92,6 @@ footer {
     bottom: 0;
 }
 
-.footer-txt {
-    margin-bottom: 5em;
-}
-
 .social {
     margin-left: 1em;
     padding-bottom: 2em;
@@ -80,4 +99,31 @@ footer {
     align-items: center;
     justify-content: space-around;
     margin-right: 135px;
+}
+
+.logo-footer {
+    margin-left: 0.75em;
+}
+
+.premium-title {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.premium-txt {
+    font-size: 20px;
+    width: 82%;
+}
+
+.price {
+    font-weight: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cost {
+    font-size: 52px;
+    font-weight: bold;
+    margin-right: 0.3em;
 }
