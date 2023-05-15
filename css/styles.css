@@ -2,6 +2,10 @@
     background-image: url('../images/bg-main-mobile.png');
 }
 
+.tablet-pattern {
+    display: none;
+}
+
 .title {
     width: 75%;
 }
@@ -139,23 +143,39 @@ footer span {
 
     .bg-pattern {
         position: relative;
-        top: 34em;
+        top: 46em;
     }
 
     .premium {
         width: 55%;
         left: 43vw;
-        top: 112vh;
+        top: 134vh;
         padding-bottom: 6em;
     }
 
     .illustration {
-        width: 40%;
-        top: 36vh;
+        width: 35%;
+        top: 54vh;
     }
 
     footer {
-        margin-top: 6em;
+        margin-top: 18em;
         bottom: 0;
+    }
+
+    .tablet-pattern {
+        display: initial;
+        position: absolute;
+        left: 67vw;
+        bottom: 67vh;
+    }
+
+    .title {
+        font-size: 64px;
+    }
+
+    .txt {
+        font-size: 18px;
+        width: 65%;
     }
 }
