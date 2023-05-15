@@ -122,8 +122,40 @@ footer .logo-footer,.footer-txt {
     justify-content: center;
 }
 
+footer span {
+    font-weight: bold;
+}
+
 .cost {
     font-size: 52px;
     font-weight: bold;
     margin-right: 0.3em;
+}
+
+@media (min-width: 768px) {
+    header {
+        z-index: 400;
+    }
+
+    .bg-pattern {
+        position: relative;
+        top: 34em;
+    }
+
+    .premium {
+        width: 55%;
+        left: 43vw;
+        top: 112vh;
+        padding-bottom: 6em;
+    }
+
+    .illustration {
+        width: 40%;
+        top: 36vh;
+    }
+
+    footer {
+        margin-top: 6em;
+        bottom: 0;
+    }
 }
