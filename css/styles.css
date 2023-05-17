@@ -207,4 +207,53 @@ footer span {
         width: 40%;
         top: -20em;
     }
+
+    .premium-title {
+        font-size: 52px;
+    }
+
+    .premium-txt {
+        font-size: 34px;
+    }
+
+    .price {
+        font-size: 32px;
+    }
+
+    .cost {
+        font-size: 52px;
+    }
+
+    .premium {
+        width: 40%;
+        left: 44em;
+        top: 95em;
+    }
+
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 114em;
+        padding-bottom: 7em;
+    }
+
+    .footer-txt {
+        font-size: 26px;
+        width: 32%;
+    }
+
+    footer img {
+        position: relative;
+        bottom: 3.4em;
+    }
+
+    .social {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .social img {
+        margin-right: 2em;
+    }
 }
