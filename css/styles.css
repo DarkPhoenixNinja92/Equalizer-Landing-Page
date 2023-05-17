@@ -144,18 +144,20 @@ footer span {
     .bg-pattern {
         position: relative;
         top: 46em;
+        left: 1.8em;
+        width: 108vw;
     }
 
     .premium {
         width: 55%;
         left: 43vw;
-        top: 134vh;
+        top: 150vh;
         padding-bottom: 6em;
     }
 
     .illustration {
         width: 35%;
-        top: 54vh;
+        top: 58vh;
     }
 
     footer {
@@ -191,12 +193,13 @@ footer span {
         width: 93vw;
         left: 0;
         top: 0;
+        padding-right: 6.2em;
         margin-bottom: 129em;
     }
 
     .tablet-pattern {
         bottom: 60vh;
-        left: 71vw;
+        left: 78vw;
     }
 
     .txt {
