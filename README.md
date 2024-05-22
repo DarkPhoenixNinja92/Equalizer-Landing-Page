@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Code Repository](https://github.com/DarkPhoenixNinja92/equalizer-landing-page)
-- Live Site URL: [GitHub Pages Live Site](https://darkphoenixninja92.github.io/equalizer-landing-page)
+- Solution URL: [GitHub Code Repository](https://github.com/ShaunPour/equalizer-landing-page)
+- Live Site URL: [GitHub Pages Live Site](https://shaunpour.github.io/equalizer-landing-page)
 
 ## My process
 
@@ -49,9 +49,9 @@ I am not the best at css and design in general so this project is to help with t
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Shaun Pour](https://www.scpour.com)
+- Frontend Mentor - [@DarkPhoenixNinja92](https://www.frontendmentor.io/profile/darkphoenixninja92)
+- Twitter - [@Dark_Ninja92](https://www.twitter.com/dark_ninja92)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
